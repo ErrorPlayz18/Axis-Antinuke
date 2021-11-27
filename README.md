@@ -1,1 +1,1 @@
-# Axis-Antinuke
+Anti-Nuke Script Made by Dropout 
