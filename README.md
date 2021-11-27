@@ -1,1 +1,1 @@
-Anti-Nuke Script Made by Dropout 
+Anti-Nuke Bot Script Made by Dropout 
